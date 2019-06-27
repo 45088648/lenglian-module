@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\workspaces\\androidstudio\\lenglian-module\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidStudioCache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\6a43381619c191d8f545d8e2334f7707\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "291,394,492,600,690,795,912,1013,1122,1221,1328,1437,1542",
+                        "endColumns": "102,97,107,89,104,116,100,108,98,106,108,104,118",
+                        "endOffsets": "389,487,595,685,790,907,1008,1117,1216,1323,1432,1537,1656"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,256,364,454,559,676,777,886,985,1092,1201,1306",
+                        "endColumns": "102,97,107,89,104,116,100,108,98,106,108,104,118",
+                        "endOffsets": "153,251,359,449,554,671,772,881,980,1087,1196,1301,1420"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudioCache\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\220d2d9fa77bbdec9460cda45553fa7b\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "1425",
+                        "endColumns": "100",
+                        "endOffsets": "1521"
+                    }
+                }
+            ]
+        }
+    ]
+}

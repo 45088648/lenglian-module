@@ -1,0 +1,506 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:2:1-154:12
+INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:2:1-154:12
+INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:2:1-154:12
+INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:2:1-154:12
+MERGED from [me.weishu:free_reflection:1.2.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\free_reflection-1.2.0.aar\29a909ecff264adf87f3b7f442fa3ad4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:2:1-31:12
+MERGED from [com.qianwen:okhttp-utils:3.8.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okhttp-utils-3.8.0.aar\96353d7129edfde9f76f939504b3b9ba\AndroidManifest.xml:2:1-16:12
+MERGED from [com.lzy.net:okgo:3.0.4] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okgo-3.0.4.aar\2310afd84d0f649eeb2958b551f7ce4d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\6a43381619c191d8f545d8e2334f7707\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.paging:runtime:1.0.0-alpha3] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha3.aar\619404a43d2f1a1ca25386e3f60ed8ec\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\26eca455ae8f17003e76694120a234fe\AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.lecho:hellocharts-library:1.5.8] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\hellocharts-library-1.5.8.aar\454b18281f4efdd551055a40782e736c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5c5a312bc6571fdaad7397681c60878c\AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\eea5bdc32e2e4cef50fbecc61a10a0d3\AndroidManifest.xml:15:1-21:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-beta2.aar\b79d595cc95985104db03e6dfea9ee8e\AndroidManifest.xml:17:1-32:12
+MERGED from [android.arch.core:runtime:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-beta2.aar\72bae5de2ff286c61e9119d53d502455\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a02af757d2f6607a34be174acbe80d42\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\67d11bfc4781697ed9f72214220a7cd2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\67430ac6c8487ac2969f4816b545e32d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\220d2d9fa77bbdec9460cda45553fa7b\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\96ff1cdfeec6ea407f9dcb73faa9a2ac\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:2:1-154:12
+INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:2:1-154:12
+INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:2:1-154:12
+	package
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+		INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+	android:sharedUserId
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:6:5-46
+	android:versionName
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:5:5-33
+		INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+		INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+		INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:11:5-79
+MERGED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:11:5-79
+MERGED from [com.qianwen:okhttp-utils:3.8.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okhttp-utils-3.8.0.aar\96353d7129edfde9f76f939504b3b9ba\AndroidManifest.xml:12:5-79
+MERGED from [com.qianwen:okhttp-utils:3.8.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okhttp-utils-3.8.0.aar\96353d7129edfde9f76f939504b3b9ba\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.SET_TIME_ZONE
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:9:22-69
+uses-permission#android.permission.SET_TIME
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:11:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:17:5-66
+MERGED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:12:5-67
+MERGED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:12:5-67
+MERGED from [com.qianwen:okhttp-utils:3.8.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okhttp-utils-3.8.0.aar\96353d7129edfde9f76f939504b3b9ba\AndroidManifest.xml:11:5-67
+MERGED from [com.qianwen:okhttp-utils:3.8.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okhttp-utils-3.8.0.aar\96353d7129edfde9f76f939504b3b9ba\AndroidManifest.xml:11:5-67
+MERGED from [com.lzy.net:okgo:3.0.4] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okgo-3.0.4.aar\2310afd84d0f649eeb2958b551f7ce4d\AndroidManifest.xml:26:5-67
+MERGED from [com.lzy.net:okgo:3.0.4] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okgo-3.0.4.aar\2310afd84d0f649eeb2958b551f7ce4d\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:26:5-84
+MERGED from [com.lzy.net:okgo:3.0.4] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okgo-3.0.4.aar\2310afd84d0f649eeb2958b551f7ce4d\AndroidManifest.xml:29:5-84
+MERGED from [com.lzy.net:okgo:3.0.4] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okgo-3.0.4.aar\2310afd84d0f649eeb2958b551f7ce4d\AndroidManifest.xml:29:5-84
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:26:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:28:5-81
+MERGED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:13:5-81
+MERGED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:13:5-81
+MERGED from [com.qianwen:okhttp-utils:3.8.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okhttp-utils-3.8.0.aar\96353d7129edfde9f76f939504b3b9ba\AndroidManifest.xml:14:5-81
+MERGED from [com.qianwen:okhttp-utils:3.8.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okhttp-utils-3.8.0.aar\96353d7129edfde9f76f939504b3b9ba\AndroidManifest.xml:14:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okgo-3.0.4.aar\2310afd84d0f649eeb2958b551f7ce4d\AndroidManifest.xml:28:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okgo-3.0.4.aar\2310afd84d0f649eeb2958b551f7ce4d\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:28:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:30:5-80
+MERGED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:14:5-80
+MERGED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:14:5-80
+MERGED from [com.qianwen:okhttp-utils:3.8.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okhttp-utils-3.8.0.aar\96353d7129edfde9f76f939504b3b9ba\AndroidManifest.xml:13:5-80
+MERGED from [com.qianwen:okhttp-utils:3.8.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okhttp-utils-3.8.0.aar\96353d7129edfde9f76f939504b3b9ba\AndroidManifest.xml:13:5-80
+MERGED from [com.lzy.net:okgo:3.0.4] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okgo-3.0.4.aar\2310afd84d0f649eeb2958b551f7ce4d\AndroidManifest.xml:27:5-80
+MERGED from [com.lzy.net:okgo:3.0.4] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okgo-3.0.4.aar\2310afd84d0f649eeb2958b551f7ce4d\AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:30:22-77
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:31:5-74
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:31:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:32:5-68
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:32:22-65
+application
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:35:5-152:19
+MERGED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:17:5-29:19
+MERGED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:17:5-29:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\6a43381619c191d8f545d8e2334f7707\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\6a43381619c191d8f545d8e2334f7707\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\26eca455ae8f17003e76694120a234fe\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\26eca455ae8f17003e76694120a234fe\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5c5a312bc6571fdaad7397681c60878c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5c5a312bc6571fdaad7397681c60878c\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-beta2.aar\b79d595cc95985104db03e6dfea9ee8e\AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-beta2.aar\b79d595cc95985104db03e6dfea9ee8e\AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.core:runtime:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-beta2.aar\72bae5de2ff286c61e9119d53d502455\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.core:runtime:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-beta2.aar\72bae5de2ff286c61e9119d53d502455\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:support-fragment:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a02af757d2f6607a34be174acbe80d42\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a02af757d2f6607a34be174acbe80d42\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\67d11bfc4781697ed9f72214220a7cd2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\67d11bfc4781697ed9f72214220a7cd2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\67430ac6c8487ac2969f4816b545e32d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\67430ac6c8487ac2969f4816b545e32d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\220d2d9fa77bbdec9460cda45553fa7b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\220d2d9fa77bbdec9460cda45553fa7b\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\96ff1cdfeec6ea407f9dcb73faa9a2ac\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\96ff1cdfeec6ea407f9dcb73faa9a2ac\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:38:9-41
+	android:persistent
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:40:9-34
+	android:icon
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:37:9-38
+	android:allowBackup
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:36:9-35
+	android:theme
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:41:9-40
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:39:9-50
+activity#com.beetech.module.activity.RealtimeMonitorActivity
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:42:9-53:20
+	android:screenOrientation
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:45:13-50
+	android:label
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:47:13-45
+	android:launchMode
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:48:13-44
+	android:configChanges
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:46:13-63
+	android:theme
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:43:13-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:49:13-52:29
+action#android.intent.action.MAIN
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:51:27-74
+activity#com.beetech.module.activity.MainActivity
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:55:9-63:20
+	android:screenOrientation
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:57:13-50
+	android:launchMode
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:59:13-44
+	android:configChanges
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:58:13-63
+	android:theme
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:55:19-56
+meta-data#update_url
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:60:13-62:83
+	android:value
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:62:17-80
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:61:17-42
+activity#com.beetech.module.activity.TempLineActivity
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:65:9-69:46
+	android:screenOrientation
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:66:13-50
+	android:launchMode
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:69:13-44
+	android:configChanges
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:67:13-63
+	android:theme
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:68:13-56
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:65:19-60
+activity#com.beetech.module.activity.UpdateConfigActivity
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:71:9-75:46
+	android:screenOrientation
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:72:13-50
+	android:launchMode
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:75:13-44
+	android:configChanges
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:73:13-63
+	android:theme
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:74:13-56
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:71:19-64
+activity#com.beetech.module.activity.QueryDataActivity
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:77:9-81:46
+	android:screenOrientation
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:78:13-50
+	android:launchMode
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:81:13-44
+	android:configChanges
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:79:13-63
+	android:theme
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:80:13-56
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:77:19-61
+activity#com.beetech.module.activity.SinglePixelActivity
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:83:9-89:58
+	android:excludeFromRecents
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:86:13-46
+	android:launchMode
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:88:13-48
+	android:configChanges
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:85:13-94
+	android:theme
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:89:13-55
+	android:finishOnTaskLaunch
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:87:13-47
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:84:13-57
+service#com.beetech.module.service.ModuleService
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:91:9-81
+	android:enabled
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:91:18-40
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:91:41-78
+service#com.beetech.module.service.JobProtectService
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:92:9-141
+	android:enabled
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:92:18-40
+	android:permission
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:92:83-139
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:92:41-82
+service#com.beetech.module.service.ModuleService$GrayInnerService
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:94:9-97:39
+	android:process
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:97:13-36
+	android:enabled
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:95:13-35
+	android:exported
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:96:13-37
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:94:18-72
+service#com.beetech.module.receiver.WakeReceiver$WakeNotifyService
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:99:9-101:40
+	android:enabled
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:100:13-35
+	android:exported
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:101:13-37
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:99:18-73
+service#com.beetech.module.receiver.WakeReceiver$WakeGrayInnerService
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:103:9-105:40
+	android:enabled
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:104:13-35
+	android:exported
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:105:13-37
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:103:18-76
+service#com.beetech.module.service.GuardService
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:107:9-110:39
+	android:process
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:110:13-37
+	android:enabled
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:108:13-35
+	android:exported
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:109:13-36
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:107:18-54
+service#com.beetech.module.service.RemoteService
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:112:9-83
+	android:process
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:112:56-81
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:112:18-55
+service#com.beetech.module.service.ScreenCheckService
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:113:9-93
+	android:process
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:113:61-91
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:113:18-60
+service#com.beetech.module.service.PlayerMusicService
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:114:9-117:48
+	android:process
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:117:13-45
+	android:enabled
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:115:13-35
+	android:exported
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:116:13-36
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:114:18-60
+receiver#com.beetech.module.receiver.AutoStartBroadcastReceiver
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:120:9-125:20
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:120:19-70
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+category:name:android.intent.category.HOME
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:121:13-124:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:122:17-79
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:122:25-76
+category#android.intent.category.HOME
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:123:17-72
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:123:27-70
+receiver#com.beetech.module.receiver.WakeReceiver
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:127:9-131:20
+	android:enabled
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:127:57-79
+	android:exported
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:127:80-104
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:127:19-56
+intent-filter#action:name:com.beetech.module.receiver.Wake
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:128:13-130:29
+action#com.beetech.module.receiver.Wake
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:129:17-75
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:129:25-72
+receiver#com.beetech.module.receiver.ConnectReceiver
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:133:9-150:20
+	android:enabled
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:136:13-36
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:134:13-53
+intent-filter#action:name:com.beetech.module.receiver.CONNECT_SERVICE
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:137:13-139:29
+action#com.beetech.module.receiver.CONNECT_SERVICE
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:138:17-85
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:138:25-83
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.USER_PRESENT
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:140:13-143:29
+action#android.intent.action.USER_PRESENT
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:141:17-76
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:141:25-74
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+action:name:android.intent.action.PACKAGE_REMOVED+data:scheme:package
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:144:13-149:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:145:17-77
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:145:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:146:17-79
+	android:name
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:146:25-77
+data
+ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:148:17-49
+	android:scheme
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml:148:23-47
+uses-sdk
+INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+MERGED from [me.weishu:free_reflection:1.2.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\free_reflection-1.2.0.aar\29a909ecff264adf87f3b7f442fa3ad4\AndroidManifest.xml:7:5-9:41
+MERGED from [me.weishu:free_reflection:1.2.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\free_reflection-1.2.0.aar\29a909ecff264adf87f3b7f442fa3ad4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:7:5-9:41
+MERGED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:7:5-9:41
+MERGED from [com.qianwen:okhttp-utils:3.8.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okhttp-utils-3.8.0.aar\96353d7129edfde9f76f939504b3b9ba\AndroidManifest.xml:7:5-9:41
+MERGED from [com.qianwen:okhttp-utils:3.8.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okhttp-utils-3.8.0.aar\96353d7129edfde9f76f939504b3b9ba\AndroidManifest.xml:7:5-9:41
+MERGED from [com.lzy.net:okgo:3.0.4] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okgo-3.0.4.aar\2310afd84d0f649eeb2958b551f7ce4d\AndroidManifest.xml:22:5-24:41
+MERGED from [com.lzy.net:okgo:3.0.4] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\okgo-3.0.4.aar\2310afd84d0f649eeb2958b551f7ce4d\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\6a43381619c191d8f545d8e2334f7707\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\6a43381619c191d8f545d8e2334f7707\AndroidManifest.xml:20:5-43
+MERGED from [android.arch.paging:runtime:1.0.0-alpha3] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha3.aar\619404a43d2f1a1ca25386e3f60ed8ec\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.paging:runtime:1.0.0-alpha3] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha3.aar\619404a43d2f1a1ca25386e3f60ed8ec\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\26eca455ae8f17003e76694120a234fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\26eca455ae8f17003e76694120a234fe\AndroidManifest.xml:20:5-44
+MERGED from [com.github.lecho:hellocharts-library:1.5.8] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\hellocharts-library-1.5.8.aar\454b18281f4efdd551055a40782e736c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lecho:hellocharts-library:1.5.8] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\hellocharts-library-1.5.8.aar\454b18281f4efdd551055a40782e736c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5c5a312bc6571fdaad7397681c60878c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5c5a312bc6571fdaad7397681c60878c\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\eea5bdc32e2e4cef50fbecc61a10a0d3\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\eea5bdc32e2e4cef50fbecc61a10a0d3\AndroidManifest.xml:19:5-43
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-beta2.aar\b79d595cc95985104db03e6dfea9ee8e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-beta2.aar\b79d595cc95985104db03e6dfea9ee8e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-beta2.aar\72bae5de2ff286c61e9119d53d502455\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-beta2.aar\72bae5de2ff286c61e9119d53d502455\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a02af757d2f6607a34be174acbe80d42\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a02af757d2f6607a34be174acbe80d42\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\67d11bfc4781697ed9f72214220a7cd2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\67d11bfc4781697ed9f72214220a7cd2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\67430ac6c8487ac2969f4816b545e32d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\67430ac6c8487ac2969f4816b545e32d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\220d2d9fa77bbdec9460cda45553fa7b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\220d2d9fa77bbdec9460cda45553fa7b\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\96ff1cdfeec6ea407f9dcb73faa9a2ac\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\96ff1cdfeec6ea407f9dcb73faa9a2ac\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-fragment:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a02af757d2f6607a34be174acbe80d42\AndroidManifest.xml:23:9-57
+	android:targetSdkVersion
+		INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+		INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+		ADDED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+		INJECTED from D:\workspaces\androidstudio\demo-module\src\main\AndroidManifest.xml
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:15:5-83
+	android:name
+		ADDED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:15:22-80
+service#com.vector.update_app.service.DownloadService
+ADDED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:18:9-81
+	android:name
+		ADDED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:18:18-78
+provider#com.vector.update_app.UpdateFileProvider
+ADDED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:20:9-28:20
+	android:grantUriPermissions
+		ADDED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:24:13-47
+	android:authorities
+		ADDED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:22:13-64
+	android:exported
+		ADDED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:21:13-68
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:25:13-27:62
+	android:resource
+		ADDED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:27:17-59
+	android:name
+		ADDED from [com.qianwen:update-app:3.5.2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\update-app-3.5.2.aar\f9fa38e92e4bdf6f18f1b5f48f93f335\AndroidManifest.xml:26:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\26eca455ae8f17003e76694120a234fe\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a02af757d2f6607a34be174acbe80d42\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a02af757d2f6607a34be174acbe80d42\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\67d11bfc4781697ed9f72214220a7cd2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\67d11bfc4781697ed9f72214220a7cd2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\67430ac6c8487ac2969f4816b545e32d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\67430ac6c8487ac2969f4816b545e32d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\220d2d9fa77bbdec9460cda45553fa7b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\220d2d9fa77bbdec9460cda45553fa7b\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\26eca455ae8f17003e76694120a234fe\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\26eca455ae8f17003e76694120a234fe\AndroidManifest.xml:24:13-51
+provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
+ADDED from [android.arch.lifecycle:extensions:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-beta2.aar\b79d595cc95985104db03e6dfea9ee8e\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-beta2.aar\b79d595cc95985104db03e6dfea9ee8e\AndroidManifest.xml:27:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-beta2.aar\b79d595cc95985104db03e6dfea9ee8e\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-beta2.aar\b79d595cc95985104db03e6dfea9ee8e\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-beta2.aar\b79d595cc95985104db03e6dfea9ee8e\AndroidManifest.xml:26:13-81
+meta-data#android.arch.core.VERSION
+ADDED from [android.arch.core:runtime:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-beta2.aar\72bae5de2ff286c61e9119d53d502455\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.core:runtime:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-beta2.aar\72bae5de2ff286c61e9119d53d502455\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.core:runtime:1.0.0-beta2] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-beta2.aar\72bae5de2ff286c61e9119d53d502455\AndroidManifest.xml:26:13-53
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\96ff1cdfeec6ea407f9dcb73faa9a2ac\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\96ff1cdfeec6ea407f9dcb73faa9a2ac\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] D:\AndroidStudioCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\96ff1cdfeec6ea407f9dcb73faa9a2ac\AndroidManifest.xml:26:13-58
